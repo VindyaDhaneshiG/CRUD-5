@@ -1,0 +1,3 @@
+https://mherman.org/node-workshop/slides/redux-intro/#49
+
+https://slides.com/dmodalek/hsr-react-redux-2018#/9
